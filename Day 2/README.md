@@ -1,5 +1,8 @@
 # Introduction to Python 3 - Day 2
 
+<img src="https://github.com/ComplexSec/learn-python3/blob/master/images/python5.png">
+
+
 ## Short Review
 
 * How to write a function
