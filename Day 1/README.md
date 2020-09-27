@@ -1,5 +1,7 @@
 # Introduction to Python 3 - Day 1
 
+<img src="https://github.com/ComplexSec/learn-python3/blob/master/images/python4.png">
+
 ## Short Review
 
 * Printed messages 
