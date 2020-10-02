@@ -37,7 +37,7 @@ def print_cheapest(weight):
   if ground < premium and ground < drone:
     method = "standard ground"
     cost = ground
-  elif preimum < ground and premium < drone:
+  elif premium < ground and premium < drone:
     method = "premium ground"
     cost = premium
   else:
