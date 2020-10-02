@@ -131,6 +131,7 @@ def graduation_reqs(credits):
 print(graduation_reqs(120))
 ```
 </p>
+</details>
 
 
 <details><summary>Boolean Operators: and</summary>
