@@ -2,7 +2,6 @@
 
 <img src="https://github.com/ComplexSec/learn-python3/blob/master/images/python6.png">
 
-
 ## Short Review
 
 * Boolean expressions are statements that can be TRUE or FALSE
